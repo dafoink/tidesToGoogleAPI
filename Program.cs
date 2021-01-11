@@ -98,7 +98,7 @@ namespace Tides
                         + startTime.ToString("hh:mm tt") + "," 
                         + endTime.ToString("MM/dd/yyyy") + "," 
                         + endTime.ToString("hh:mm tt") + ","
-                        + "\"Tides from: http://tidesandcurrents.noaa.gov/tide_predictions.shtml.\\nCalendar template created in dotNetCore by Brian Wharton\","
+                        + "\"Tides from: http://tidesandcurrents.noaa.gov/tide_predictions.shtml.\\nCalendar template created in dotNetCore by Brian Wharton 'https://github.com/dafoink/tidesToGoogleAPI'\","
                         + "\"Location: " + location + "\","
                         + "false"
                         + "\n"
