@@ -10,7 +10,7 @@ If you dont enter a filename, the data will display on the console.
 
 You can get a station ID near you by going to NOAA's site: https://tidesandcurrents.noaa.gov/map/index.html
 
-Example, to find the tides at the station near mine for the entire year of 2021, I would enter:
+Example, to find the tides at the station near me for the entire year of 2021, I would enter:
 
 ./Tides.exe -beginDate 01/01/2021 -endDate 12/31/2021 -station 8654467 -fileName ./tidesOutputFile.csv
 
