@@ -4,6 +4,8 @@ This should run on any machine that can run the .NET Core runtime.  I have teste
 
 Usage: ./Tides.exe -beginDate <MM/dd/yyyy> -endDate <MM/dd/yyyy> -station <stationID> -fileName <./filename.csv>
 
+*NOTE:  the .EXE is located in the bin/Debug/net5.0 folder.  This has initially been built for Windows 10.  You would have to rebuild it if you want to run it for another operating system.*
+
 If you dont enter a filename, the data will display on the console.
 
 You can get a station ID near you by going to NOAA's site: https://tidesandcurrents.noaa.gov/map/index.html
