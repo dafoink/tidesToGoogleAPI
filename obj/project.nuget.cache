@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5aK3B4PZPIvWTCbvJst7FLt5OuGa88twtUHiVYRKLxjuG3YEJt943A5EBrYGjVYaJdRyXhoCuPyoHVpDZq0JPA==",
+  "success": true,
+  "projectFilePath": "E:\\Source\\Brians Playground\\DotNetCore\\Tides\\Tides.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Brian K. Wharton\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\Brian K. Wharton\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}
