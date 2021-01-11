@@ -17,3 +17,5 @@ Where:
 - endDate is the last day I want to get tides (in this case 12/31/2021)
 - station is the location for getting the tides.  The station closest to me on Hatteras Island is 8654467 (USCG Station Hatteras, NC)
 - fileName is where I want to output the information.  I am saving it in the same folder I am executing Tides.exe and naming the file tidesOutputFile.csv
+
+Once you have a file, then you can go to your Google Calendar and click on the "Settings and Sharing".  Once in Settings, you will see "Import & Export".  From here you can then upload the .CSV file to import the tides into your calendar.
